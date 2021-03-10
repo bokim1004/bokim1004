@@ -4,5 +4,5 @@
 My Blog
 https://velog.io/@chloeee
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bokim1004&theme=cobaly&show_icons=true)](https://github.com/bokim1004/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=cobalt&show_icons=true)
 
