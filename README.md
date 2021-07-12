@@ -13,8 +13,8 @@
 
 
 
-My Blog
-https://velog.io/@chloeee
+My Blog💜
+<img src="https://img.shields.io/badge/Tech Blog-11B48A?style=flat-square&logo=HTML5&logoColor=white"&link="https://velog.io/@chloeee" />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bokim1004&theme=cobalt&show_icons=true)
 
