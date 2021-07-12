@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=BoGyoeng%20Kim&fontSize=90)
 
 <p align="left"> Hi there. I'm chloe. A front-end developer.👋🏻 </p>
-<p align="left"> I LIKE SIMPLE. BE-CAUSE I AM SIMPLE</p>
+<p align="left"> I like simple. BE-CAUSE I am simple.</p>
 
 <h3 align="left"> 🦄 My GitHub Stats </h3>
 
