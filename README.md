@@ -1,5 +1,7 @@
-# Bo gyeong Kim👩‍💻
-더 나은 세상을 꿈꾸는 프론트엔드 개발자
+# Hi there. I'm Chloe👩‍💻
+I'm chloe, a front-end developer.
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
 
 My Blog
 https://velog.io/@chloeee
