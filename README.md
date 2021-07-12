@@ -14,7 +14,7 @@
 
 
 My Blog💜
-<p align="center"><img src="https://img.shields.io/badge/Tech Blog-11B48A?style=flat-square&logo=HTML5&logoColor=white"&link="https://velog.io/@chloeee" /> </p>
+<p align="center"><img src="https://img.shields.io/badge/Tech Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white"&link="https://velog.io/@chloeee" /> </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bokim1004&theme=cobalt&show_icons=true)
 
