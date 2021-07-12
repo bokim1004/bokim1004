@@ -1,4 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=BoGyoeng%20Kim&fontSize=90)
+Hi there. I'm chloe. A front-end developer.👋🏻
+I like simpe because I am simple.
 
 <h3 align="left"> 🦄 My GitHub Stats </h3>
 
