@@ -1,5 +1,5 @@
 # Hi there. I'm Chloe👩‍💻
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=chloe%20kim&fontSize=90))
 
 I'm chloe, a front-end developer.
 
