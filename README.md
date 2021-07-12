@@ -1,4 +1,4 @@
-# Hi there. I'm Chloe👩‍💻30
+# Hi there. I'm Chloe👩‍💻
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=BoGyoengKim&fontSize=90)
 
 <h3 align="center"> 🔮 Tech Stack</h3>
