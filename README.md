@@ -1,7 +1,11 @@
 # Hi there. I'm Chloe👩‍💻
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=chloe%20kim&fontSize=90))
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=BoGyoengKim&fontSize=90)
 
-I'm chloe, a front-end developer.
+<h3 align="center"> 🔮 Tech Stack</h3>
+<p align="center">
+https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white
+
+
 
 
 
