@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&width=100%&height=300&section=header&text=BoGyoengKim&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=BoGyoengKim&fontSize=90)
 
 <h3 align="left"> 🔮 Tech Stack</h3>
 <p align="left">
@@ -13,7 +13,7 @@
 
 
 <h3 align="left">💜  My Blog </h3>
-<p align="left"><img src="https://img.shields.io/badge/Tech Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white"&link="https://velog.io/@chloeee"/> </p>
+<p align="left"><img src="https://img.shields.io/badge/Tech Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white"&link=https://velog.io/@chloeee/> </p>
 
 <h3 align="left"> 🦄 My GitHub Stats </h3>
 
