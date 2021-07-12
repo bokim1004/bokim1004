@@ -16,5 +16,5 @@
 <h3 align="left">💜  My Blog </h3>
 <p align="left"><img src="https://img.shields.io/badge/Tech Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white"&link="https://velog.io/@chloeee" /> </p>
 <h3 align="left"> 🦄 My GitHub Stats </h3>
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bokim1004&theme=cobalt&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bokim1004&theme=cobalt&show_icons=true)
 
