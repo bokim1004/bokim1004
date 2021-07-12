@@ -1,6 +1,7 @@
 # Hi there. I'm Chloe👩‍💻
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=capsule%20render&fontSize=90)
 I'm chloe, a front-end developer.
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
 
 
 My Blog
