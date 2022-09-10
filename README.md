@@ -23,5 +23,8 @@
 <p align="left"><a href="https://velog.io/@chloeee"><img src="https://img.shields.io/badge/Tech Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@chloeee"/></a> </p>
 
 
+<h3 align="left">📚 Study </h3>
+<p align="left"> 글또(기술블로그 작성 스터디) 7기 2022.05~  </p>
+
 
 
