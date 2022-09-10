@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=BoGyoeng%20Kim&fontSize=90)
 
-<p align="left"> Hi there. I'm chloe. A front-end developer.👋🏻 </p>
-<p align="left"> I like simple. BE-CAUSE I am simple.</p>
+<p align="left"> 안녕하세요. 프론트엔드 개발자 김보경입니다.👋🏻 </p>
+<p align="left"> 끊임없는 공부를 하여 지속적인 성장을 추구합니다. </p>
 
 <h3 align="left"> 🦄 My GitHub Stats </h3>
 
