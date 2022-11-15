@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Front-End Developer&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Front-End%20Developer&fontSize=90)
 
 <p align="left"> 안녕하세요. 프론트엔드 개발자 김보경입니다.👋🏻 </p>
 <p align="left"> 꾸준히 공부하며 성장하는 것을 즐깁니다🥰 </p>
