@@ -26,6 +26,7 @@
 <h3 align="left">📚 Study </h3>
 <p align="left"> 👩🏻‍💻 글또(글쓰는 개발자 모임) 7기 2022.05~10  </p>
 
+#### Please feel free to contact me :)
 <a href="mailto: akbk1004@gmail.com" target="_blank"><img src="https://img.shields.io/badge/akbk1004@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 
