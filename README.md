@@ -3,7 +3,7 @@
  <h3> 👩🏻‍💻 Bogyeong Kim </h3>
 <p align="left">Hi👋 I'm a frontend developer. </p>
 <p align="left"> I'm keen to learn Javascript, Typescript, React, Next.js.  🥰 </p>
-<p align="left"> If anyone is interested, please contact me 🥰 </p>
+<p align="left"> If anyone is interested, please contact me as below email 🥰 </p>
 <a href="mailto: akbk1004@gmail.com" target="_blank"><img src="https://img.shields.io/badge/akbk1004@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 
