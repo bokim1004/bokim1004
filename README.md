@@ -3,6 +3,8 @@
  <h3> 👩🏻‍💻 Bogyeong Kim </h3>
 <p align="left">Hi👋 I'm a frontend developer. </p>
 <p align="left"> I'm keen to learn Javascript, Typescript, React, Next.js.  🥰 </p>
+<p align="left"> If anyone is interested, please contact me 🥰 </p>
+<a href="mailto: akbk1004@gmail.com" target="_blank"><img src="https://img.shields.io/badge/akbk1004@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 
 <h3 align="left"> 🛠 Tech Stack</h3>
@@ -21,9 +23,6 @@
 
 <h3 align="left">📚 Community </h3>
 <p align="left"> 👩🏻‍💻 글또(글쓰는 개발자 모임) 7기 2022.05~10  </p>
-
-<h3 align="left">⭐️ Contact </h3>
-<a href="mailto: akbk1004@gmail.com" target="_blank"><img src="https://img.shields.io/badge/akbk1004@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 
 <h3 align="left"> 🦄 My GitHub Stats </h3>
