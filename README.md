@@ -5,7 +5,7 @@
 <p align="left"> I'm keen to learn Javascript, Typescript, React, Next.js.  🥰 </p>
 
 
-<h3 align="left"> 🔮 Tech Stack</h3>
+<h3 align="left"> 🛠 Tech Stack</h3>
 <p align="left">
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
