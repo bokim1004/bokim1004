@@ -1,6 +1,6 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Front-End%20Developer&fontSize=70)
  -->
- <h1> 👩🏻‍💻 Bogyeong Kim </h1>
+ <h3> 👩🏻‍💻 Bogyeong Kim </h3>
 <p align="left">Hi👋 I'm a frontend developer. </p>
 <p align="left"> I'm keen to learn Javascript, Typescript, React, Next.js.  🥰 </p>
 
