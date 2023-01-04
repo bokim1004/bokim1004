@@ -1,11 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Front-End%20Developer&fontSize=70)
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Front-End%20Developer&fontSize=70)
+ -->
+ <h1> 👩🏻‍💻 Bogyeong Kim </h1>
+<p align="left">Hi👋 I'm a frontend developer. </p>
+<p align="left"> I'm keen to learn Javascript, Typescript, React, Next.js.  🥰 </p>
 
-<p align="left"> 안녕하세요. 프론트엔드 개발자 김보경입니다.👋🏻 </p>
-<p align="left"> 꾸준히 공부하며 성장하는 것을 즐깁니다🥰 </p>
-
-<h3 align="left"> 🦄 My GitHub Stats </h3>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bokim1004&theme=cobalt&show_icons=true)
 
 <h3 align="left"> 🔮 Tech Stack</h3>
 <p align="left">
@@ -15,8 +13,6 @@
 <img src="https://img.shields.io/badge/React & React Native-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/> 
  <img src="https://img.shields.io/badge/-Typescript-3C99DC?style=flat-square&logo=TypeScript&logoColor=white"/>
-
-
 
 
 <h3 align="left">💜  My Blog </h3>
@@ -30,3 +26,6 @@
 <a href="mailto: akbk1004@gmail.com" target="_blank"><img src="https://img.shields.io/badge/akbk1004@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 
+<h3 align="left"> 🦄 My GitHub Stats </h3>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bokim1004&theme=cobalt&show_icons=true)
