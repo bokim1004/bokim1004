@@ -1,9 +1,9 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Front-End%20Developer&fontSize=70)
  -->
  <h3> 👩🏻‍💻 Bogyeong Kim </h3>
-<p align="left">Hi👋 I'm a frontend developer. </p>
-<p align="left"> I'm keen to learn Javascript, Typescript, React, Next.js.  🥰 </p>
-<p align="left"> If anyone is interested, please contact me as below email </p>
+<span align="left">Hi👋 I'm a frontend developer. </span> <br/>
+<span align="left"> I'm keen to learn Javascript, Typescript, React, Next.js.  🥰 </span> <br/>
+<span align="left"> If anyone is interested, please contact me as below email </span>
 <a href="mailto: akbk1004@gmail.com" target="_blank"><img src="https://img.shields.io/badge/akbk1004@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 
