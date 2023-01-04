@@ -23,7 +23,7 @@
 
 
 <h3 align="left">📚 Community </h3>
-<p align="left"> 👩🏻‍💻 글또(글쓰는 개발자 모임) 7기 2022.05~10  </p>
+<p align="left"> 👩🏻‍💻 글또(글쓰는 개발자 모임) 7기 2022.05 ~ 2022.10  </p>
 
 
 <h3 align="left"> 🦄 My GitHub Stats </h3>
