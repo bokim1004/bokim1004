@@ -25,7 +25,3 @@
 <h3 align="left">📚 Community </h3>
 <p align="left"> 👩🏻‍💻 글또(글쓰는 개발자 모임) 7기 2022.05 ~ 2022.10  </p>
 
-
-<h3 align="left"> 🦄 My GitHub Stats </h3>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bokim1004&theme=cobalt&show_icons=true)
