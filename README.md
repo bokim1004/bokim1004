@@ -22,7 +22,7 @@
 <p align="left"><a href="https://bokim1004.github.io/"><img src="https://img.shields.io/badge/Tech Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@chloeee"/></a> </p>
 
 <a href="https://hhpluscertificateofcompletion.oopy.io/">
-  <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_brown.svg" />
+  <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_red.svg" />
 </a>
 
 <h3 align="left">📚 Community </h3>
